@@ -1,0 +1,91 @@
+body{
+    padding: 50px ;
+    font-family: Lobster, sans-serif;
+    
+}
+
+
+.block{
+    border: 2px solid green;
+    max-width: 801px;
+    height: 800px;
+    margin: 0 auto;
+}
+
+.block div{
+    line-height: 50px;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    width: 33%;
+}
+
+
+.block1{
+    background-color: aquamarine;
+    float: left;
+}
+
+
+.block2{
+    background-color: brown;
+    float: left;
+}
+
+
+.block3{
+    background-color: chocolate;
+   /* position:relative;
+    top: 6px;
+    left: 34px;*/
+    
+    float:  left;
+}
+
+
+.block4{
+    background-color: crimson;
+ float: left;
+}
+
+
+.block5{
+    background-color: chartreuse;
+    float: left;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
